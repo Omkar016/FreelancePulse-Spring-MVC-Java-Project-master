@@ -1,4 +1,4 @@
-# ProjectPulse
+# FreelancePulse
 
 ![SpringMVC](https://img.shields.io/badge/SpringMVC-4-green)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
@@ -14,7 +14,7 @@
 
 
 
- What is  Projectplus ?
+ What is  Freelance ?
 
 Projectplus is a web-based platform designed to facilitate the connection between freelancers and companies. The primary goal of Projectplus is to provide a seamless environment where freelancers can find job opportunities and companies can find skilled professionals to hire for their projects. The platform supports two main user modules: freelancers and companies.
 
@@ -70,4 +70,4 @@ Communication
   ![Screenshot (166)](https://github.com/GauravPatilGR/Projectplus-Spring-MVC-Java-Project/assets/123281827/4fd878a1-5158-4929-9c05-d69bbed9120e)
 
 ## Conclusion
-Projectplus aims to streamline the process of connecting freelancers with companies. By leveraging Spring MVC and related technologies, this project provides a robust and scalable platform for managing job postings, applications, and hiring processes.
+Freelance aims to streamline the process of connecting freelancers with companies. By leveraging Spring MVC and related technologies, this project provides a robust and scalable platform for managing job postings, applications, and hiring processes.
